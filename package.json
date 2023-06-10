@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Build shop app with Angular and Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keen1483/shop-nodejs-angular.git"
+  },
+  "author": "Keen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keen1483/shop-nodejs-angular/issues"
+  },
+  "homepage": "https://github.com/Keen1483/shop-nodejs-angular#readme"
+}
